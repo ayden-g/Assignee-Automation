@@ -1,4 +1,4 @@
-name: Auto Assign Issue
+name: Task 1: Auto Assing Issues
 
 on:
   issues:
